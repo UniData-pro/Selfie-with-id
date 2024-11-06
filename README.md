@@ -9,7 +9,7 @@ By utilizing this dataset, researchers can develop more robust **re-identificati
 
 This dataset offers a opportunity to explore re-identification challenges by providing **13 selfies** of individuals against diverse backgrounds with different lighting, paired with **2 ID photos** from different document types. 
 
-# 💵 Buy the Dataset: This is a limited preview of the data. To access the full dataset, please contact us at [https://unidata.pro](https://unidata.pro/datasets/selfie-with-id/?utm_source=github&utm_medium=cpc&utm_campaign=selfie-with-id) to discuss your requirements and pricing options.
+## 💵 Buy the Dataset: This is a limited preview of the data. To access the full dataset, please contact us at [https://unidata.pro](https://unidata.pro/datasets/selfie-with-id/?utm_source=github&utm_medium=cpc&utm_campaign=selfie-with-id) to discuss your requirements and pricing options.
 
 ## Metadata for the dataset
 Devices: **Samsung M31, Infinix note11, Tecno Pop 7, Samsung A05, Iphone 15 Pro Max and other**
@@ -19,4 +19,4 @@ Resolution: **1000 x 750** and higher
 
 This dataset enables the development of more robust and reliable authentication systems, ultimately contributing to enhancing customer onboarding experiences by streamlining verification processes, minimizing fraud, and improving overall security measures for a wide range of services, including online platforms, financial institutions, and government agencies.
 
-# 🌐 [UniData](https://unidata.pro/datasets/selfie-with-id/?utm_source=github&utm_medium=cpc&utm_campaign=selfie-with-id) provides high-quality datasets, content moderation, data collection and annotation for your AI/ML projects 
+## 🌐 [UniData](https://unidata.pro/datasets/selfie-with-id/?utm_source=github&utm_medium=cpc&utm_campaign=selfie-with-id) provides high-quality datasets, content moderation, data collection and annotation for your AI/ML projects 
